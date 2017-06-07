@@ -1,0 +1,11 @@
+﻿  SimpleFactory.cpp
+  Random.cpp
+  main.cpp
+  Language.cpp
+  File.cpp
+  Equation.cpp
+c:\users\lenovo\desktop\again\again\equation.cpp(184): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\lenovo\desktop\again\again\equation.cpp(185): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  AGAIN.vcxproj -> C:\Users\lenovo\Desktop\AGAIN\Debug\AGAIN.exe
+  AGAIN.vcxproj -> C:\Users\lenovo\Desktop\AGAIN\Debug\AGAIN.pdb (Partial PDB)
